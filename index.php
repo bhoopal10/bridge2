@@ -144,7 +144,7 @@
           <!-- FEATURES -->
           <div class="col-sm-3">
             <div class="icon-box">
-              <i class="fa fa-cogs fa-round fa-4x text-theme"></i>
+              <i class="fa fa-list fa-round fa-4x text-theme"></i>
               <h3 class="title-sm text-theme-sm text-theme">Listing & Cataloguing</h3>
               <p class="text-theme-sm text-justify">With this mail, we are pleased to offer&nbsp;<b>our professional cataloguing and listing services</b>&nbsp;which can help expand your online product portfolio and&nbsp;<b>enhance your customer experience and sales on all e-Commerce platforms.</b> </p>
               <a href="service.php#listing-cataloguing" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
@@ -154,7 +154,7 @@
           <!-- FEATURES -->
           <div class="col-sm-3">
             <div class="icon-box">
-              <i class="fa fa-paper-plane fa-round fa-4x text-theme"></i>
+              <i class="fa fa-unlink fa-round fa-4x text-theme"></i>
               <h3 class="title-sm text-theme-sm text-theme">Suspension Prevention</h3>
               <p class="text-theme-sm text-justify">With this mail, we are pleased to introduce you to our&nbsp;<b>Suspension Prevention services</b>&nbsp;which can not only help&nbsp;<b>you avoid getting suspended</b>&nbsp;on Amazon but which will also ensure that you are<b>&nbsp;among the best </b>rated sellers in your category.</p>
                <a href="service.php#suspension-prevention" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
@@ -164,7 +164,7 @@
           <!-- FEATURES -->
           <div class="col-sm-3">
             <div class="icon-box">
-              <i class="fa fa-code fa-round fa-4x text-theme"></i>
+              <i class="fa fa-paper-plane  fa-round  fa-4x text-theme"></i>
               <h3 class="title-sm text-theme-sm text-theme">Launch</h3>
               <p class="text-theme-sm text-justify">More than 50 Non Accounts Launched, No Advanced 
               </p>
