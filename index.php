@@ -92,7 +92,7 @@
                       </ul>
                       <a class="text-theme btn btn-primary btn-lg animation an-delay-13 an-duration-04 fadeInRightSlider">Read More</a>
                     </div>
-                    <div class="col-sm-5 hidden-xs">
+                    <div class="col-md-3 col-md-offset-1 hidden-xs">
                       <img class="img-responsive img-slide-2 pull-right mt-20 animation an-delay-18 an-duration-04 fadeInUpSlider" src="public/images/business-04.png" alt="theme-img">
                     </div>
                   </div>
