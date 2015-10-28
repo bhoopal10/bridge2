@@ -338,7 +338,7 @@ venenatis eu.</p>
       <div class="container">
         <div class="row">
           <div class="col-sm-12 cl-md-12 text-center">
-            <h3 class="text-theme title-lg">Out Ceo Says, "This is the Best Theme In The World"</h3>
+            <h3 class="text-theme title-lg">out ceo says, "This is the Best Theme In The World"</h3>
             <p class="text-theme lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
           </div>
         </div>
