@@ -30,7 +30,7 @@
 <script charset="UTF-8" src="index_files/javascript.js" async=""></script>
 <script type="text/javascript">
   $(function(){
-    $("a[href^='#']").click(function(e){
+    $(".section a[href^='#'],.item a[href^='#']").click(function(e){
       e.preventDefault();
         var href = $(this).attr('href');
         href = href.substr(1);
