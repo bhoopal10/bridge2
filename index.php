@@ -267,7 +267,7 @@ venenatis eu.</p>
       <div class="container">
         <div class="row">
           <div class="col-sm-12 text-center">
-            <h3 class="text-theme title-xl title-section text-uppercase hr">Some of Our Work</h3>
+            <h3 class="text-theme title-xl title-section text-uppercase hr">Our Work</h3>
           </div>
         </div>
       </div>
@@ -275,7 +275,10 @@ venenatis eu.</p>
     <div class="section section-both section-sm " id="account-reactivation" style="border:none!important;padding-top:75px">
   <div class="container">
     <div class="row">
-      <div class="col-sm-8 col-sm-offset-2">
+    <div class="col-sm-5">
+        <img class="img-responsive" src="public/images/step-reactivation.png" alt="theme-img">
+      </div>
+      <div class="col-sm-7">
         <h3 class="text-theme title-lg">Account Reactivation</h3>
         <p class="text-theme">With this mail, we are pleased to introduce you to our Account Reactivation and Management services which can not only help you get your business back on Amazon but which will also ensure that it doesn't get suspended ever again. </p>
         <ul class="text-theme list-unstyled list-md">
@@ -293,7 +296,7 @@ venenatis eu.</p>
 <div class="section section-both section-sm section-dark" id="listing-cataloguing">
   <div class="container">
     <div class="row">
-      <div class="col-sm-8 col-sm-offset-2">
+      <div class="col-sm-7">
         <h3 class="text-theme title-lg">Listing & Cataloguing</h3>
         <p class="text-theme">With this mail, we are pleased to offer <b>our professional cataloguing and listing services</b> which can help expand your online product portfolio and <b>enhance your customer experience and sales on all e-Commerce platforms.</p>
         <ul class="text-theme list-unstyled list-md">
@@ -308,6 +311,9 @@ venenatis eu.</p>
           
         </ul>
       </div>
+      <div class="col-sm-5">
+        <img class="img-responsive" src="public/images/catalogue.png" alt="theme-img">
+      </div>
     </div>
   </div>
 </div>
@@ -315,7 +321,10 @@ venenatis eu.</p>
 <div class="section section-both section-sm section-dark" id="suspension-prevention">
   <div class="container">
     <div class="row">
-      <div class="col-sm-8 col-sm-offset-2">
+    <div class="col-sm-5">
+        <img class="img-responsive" src="public/images/suspenstion.png" alt="theme-img">
+      </div>
+      <div class="col-sm-7">
         <h3 class="text-theme title-lg">Suspension Prevention</h3>
           <p class="text-theme">With this mail, we are pleased to introduce you to our <b>Suspension Prevention services</b> which can not only help <b>you avoid getting suspended</b> on Amazon but which will also ensure that you are<b> among the best </b>rated sellers in your category.</p>
         <ul class="text-theme list-unstyled list-md">
@@ -332,13 +341,32 @@ venenatis eu.</p>
     </div>
   </div>
 </div>
+
+<div class="section section-both section-sm section-dark" id="launch">
+  <div class="container">
+    <div class="row">
+    
+      <div class="col-sm-7">
+        <h3 class="text-theme title-lg">Launch</h3>
+          <p class="text-theme">With this mail, we are pleased to introduce you to our <b>Suspension Prevention services</b> which can not only help <b>you avoid getting suspended</b> on Amazon but which will also ensure that you are<b> among the best </b>rated sellers in your category.</p>
+        <ul class="text-theme list-unstyled list-md">
+         <li><i class="fa fa-check colored"></i><b> More than 50 Non Accounts Launched</b></li>
+        <li><i class="fa fa-check colored"></i><b>No Advance Payment</b></li>
+        </ul>
+      </div>
+      <div class="col-sm-5">
+        <img class="img-responsive" src="public/images/launch.png" alt="theme-img">
+      </div>
+    </div>
+  </div>
+</div>
     <!-- SECTION CEO -->
     <!--===============================================================-->
     <div class="section-ceo section section-sm section-top " style="margin-bottom:80px">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 cl-md-12 text-center">
-            <h3 class="text-theme title-lg">out ceo says, "This is the Best Theme In The World"</h3>
+            <h3 class="text-theme title-lg">our customers says, </h3>
             <p class="text-theme lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
           </div>
         </div>
