@@ -36,7 +36,7 @@
                         <li class="animation an-delay-09 an-duration-04 fadeInLeftSlider"><i class="fa fa-check fa-round"></i>Over 250 Suspended Seller account Reinstated and still counting..</li>
                         <li class="animation an-delay-11 an-duration-04 fadeInLeftSlider"><i class="fa fa-check fa-round"></i> No Advance Payment</li>
                       </ul>
-                      <a class="text-theme btn btn-primary btn-lg animation an-delay-13 an-duration-04 fadeInRightSlider">Read More</a>
+                      <a class="text-theme btn btn-primary btn-lg animation an-delay-13 an-duration-04 fadeInRightSlider" href="#account-reactivation">Read More</a>
                     </div>
                     <div class="col-sm-5 hidden-xs">
                       <img class="pull-right animation an-delay-19 an-duration-04 fadeInUpSlider" src="public/images/business-01.png" alt="theme-img">
@@ -54,7 +54,7 @@
                         <li class="animation an-delay-09 an-duration-04 fadeInLeftSlider"><i class="fa fa-check fa-round"></i>Managing more than 100 active accounts</li>
                         <li class="animation an-delay-11 an-duration-04 fadeInLeftSlider"><i class="fa fa-check fa-round"></i>95% of reactive accounts have "Good Health"</li>
                       </ul>
-                      <a class="text-theme btn btn-primary btn-lg animation an-delay-13 an-duration-04 fadeInRightSlider">Read More</a>
+                      <a class="text-theme btn btn-primary btn-lg animation an-delay-13 an-duration-04 fadeInRightSlider" href="#suspension-prevention">Read More</a>
                     </div>
                     <div class="col-sm-5 hidden-xs">
                       <img class="img-responsive img-slide-2 pull-right mt-20 animation an-delay-18 an-duration-04 fadeInUpSlider" src="public/images/business-02.png" alt="theme-img">
@@ -75,7 +75,7 @@
                         <li class="animation an-delay-14 an-duration-04 fadeInRightSlider"><i class="fa fa-check fa-round"></i>Experience of listing over 1 lakh items</li>
                         <li class="animation an-delay-16 an-duration-04 fadeInRightSlider"><i class="fa fa-check fa-round"></i> TAT (Turn around) = 2 days </li>
                       </ul>
-                      <a class="text-theme btn btn-primary btn-lg animation an-delay-13 an-duration-04 fadeInRightSlider">Read More</a>
+                      <a class="text-theme btn btn-primary btn-lg animation an-delay-13 an-duration-04 fadeInRightSlider" href="#listing-cataloguing">Read More</a>
                     </div>
                   </div>
                 </div>
@@ -90,7 +90,7 @@
                         <li class="animation an-delay-09 an-duration-04 fadeInLeftSlider"><i class="fa fa-check fa-round"></i> More than 50 Non Accounts Launched</li>
                         <li class="animation an-delay-11 an-duration-04 fadeInLeftSlider"><i class="fa fa-check fa-round"></i>No Advanced</li>
                       </ul>
-                      <a class="text-theme btn btn-primary btn-lg animation an-delay-13 an-duration-04 fadeInRightSlider">Read More</a>
+                      <a class="text-theme btn btn-primary btn-lg animation an-delay-13 an-duration-04 fadeInRightSlider" href="#launch">Read More</a>
                     </div>
                     <div class="col-md-3 col-md-offset-1 hidden-xs">
                       <img class="img-responsive img-slide-2 pull-right mt-20 animation an-delay-18 an-duration-04 fadeInUpSlider" src="public/images/business-04.png" alt="theme-img">
@@ -136,8 +136,8 @@
             <div class="icon-box">
               <i class="fa fa-bar-chart-o fa-round fa-4x text-theme"></i>
               <h3 class="title-sm text-theme-sm text-theme">Account Reactivation</h3>
-              <p class="text-theme-sm text-justify">With this mail, we are pleased to introduce you to our <strong>Account Reactivation and Management services</strong>&nbsp;which can not only help you get your business back on Amazon but which will also ensure that it doesn't get suspended ever again. </p>
-              <a href="service.php#account-reactivation" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
+              <p class="text-theme-sm text-justify">Introduce you to our <strong>Account Reactivation and Management services</strong></p>
+              <a href="#account-reactivation" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
               
             </div>
           </div>
@@ -146,8 +146,8 @@
             <div class="icon-box">
               <i class="fa fa-list fa-round fa-4x text-theme"></i>
               <h3 class="title-sm text-theme-sm text-theme">Listing & Cataloguing</h3>
-              <p class="text-theme-sm text-justify">With this mail, we are pleased to offer&nbsp;<b>our professional cataloguing and listing services</b>&nbsp;which can help expand your online product portfolio and&nbsp;<b>enhance your customer experience and sales on all e-Commerce platforms.</b> </p>
-              <a href="service.php#listing-cataloguing" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
+              <p class="text-theme-sm text-justify"><b>our professional cataloguing and listing services</b>&nbsp;which can help expand your online product portfolio  </p>
+              <a href="#listing-cataloguing" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
               
             </div>
           </div>
@@ -156,8 +156,8 @@
             <div class="icon-box">
               <i class="fa fa-unlink fa-round fa-4x text-theme"></i>
               <h3 class="title-sm text-theme-sm text-theme">Suspension Prevention</h3>
-              <p class="text-theme-sm text-justify">With this mail, we are pleased to introduce you to our&nbsp;<b>Suspension Prevention services</b>&nbsp;which can not only help&nbsp;<b>you avoid getting suspended</b>&nbsp;on Amazon but which will also ensure that you are<b>&nbsp;among the best </b>rated sellers in your category.</p>
-               <a href="service.php#suspension-prevention" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
+              <p class="text-theme-sm text-justify">Introduce you to our&nbsp;<b>Suspension Prevention services</b>&nbsp;helps&nbsp;<b>you avoid getting suspended</b></p>
+               <a href="#suspension-prevention" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
               
             </div>
           </div>
@@ -168,7 +168,7 @@
               <h3 class="title-sm text-theme-sm text-theme">Launch</h3>
               <p class="text-theme-sm text-justify">More than 50 Non Accounts Launched, No Advanced 
               </p>
-              <a href="service.php#launch" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
+              <a href="#launch" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
               
             </div>
           </div>
@@ -225,131 +225,126 @@ venenatis eu.</p>
     </div> -->
     <!-- SECTION COUNT -->
     <!--===============================================================-->
-    <!-- <div class="section-polygonal-black section-arrow-bottom">
+     <div class="section-polygonal-black section-arrow-bottom">
       <div class="opacity-layer section section-both section-lg">
         <div class="container">
           <div id="count-wrapper" class="row">
             <div class="col-sm-3">
               <div class="icon-box">
                 <i class="fa fa-coffee fa-4x text-theme-sm"></i>
-                <h3 class="title-count title-lg text-theme-sm hr" data-from="25" data-speed="1400" data-refresh-interval="50" data-to="75">75</h3>
-                <h3 class="title-md text-theme-sm">COFFEES</h3>
+                <h3 class="title-count title-lg text-theme-sm hr" data-from="25" data-speed="1400" data-refresh-interval="50" data-to="1000">1000</h3>
+                <h3 class="title-md text-theme-sm">Accounts Reactivation</h3>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="icon-box">
                 <i class="fa fa-code fa-4x text-theme-sm"></i>
                 <h3 class="title-count title-lg text-theme-sm hr" data-from="25" data-speed="1400" data-refresh-interval="50" data-to="4228">4228</h3>
-                <h3 class="title-md text-theme-sm">LINES OF CODE</h3>
+                <h3 class="title-md text-theme-sm">Listing & Cataloguing</h3>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="icon-box">
                 <i class="fa fa-cloud-download fa-4x text-theme-sm"></i>
                 <h3 class="title-count title-lg text-theme-sm hr" data-from="25" data-speed="1400" data-refresh-interval="50" data-to="110">110</h3>
-                <h3 class="title-md text-theme-sm">DOWNLOADED</h3>
+                <h3 class="title-md text-theme-sm">Suspension Prevention</h3>
               </div>
             </div>
             <div class="col-sm-3">
               <div class="icon-box">
                 <i class="fa fa-rocket fa-4x text-theme-sm"></i>
                 <h3 class="title-count title-lg text-theme-sm hr" data-from="25" data-speed="1400" data-refresh-interval="50" data-to="201">201</h3>
-                <h3 class="title-md text-theme-sm">TIMES</h3>
+                <h3 class="title-md text-theme-sm">Launch</h3>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div> -->
+    </div> 
     <!-- SECTION WORK AND CLIENTS -->
     <!--===============================================================-->
-    <!-- <div class="section section-lg section-both section-dark">
+      <div class="section section-lg section-both " style="padding: 20px 0px!important;">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 text-center">
             <h3 class="text-theme title-xl title-section text-uppercase hr">Some of Our Work</h3>
-            <p class="text-theme lead lead-section">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-8 col-sm-offset-2">
-            <div style="opacity: 1; display: block;" id="owl-our-work" class="owl-carousel owl-theme">
-              <div class="owl-wrapper-outer"><div style="width: 3000px; left: 0px; display: block; transition: all 1000ms ease 0s; transform: translate3d(0px, 0px, 0px);" class="owl-wrapper"><div style="width: 375px;" class="owl-item"><div class="item">
-                <a href="http://mamoot-themes.com/theme-preview/z-theme-1-2/assets/images/portfolio/lightbox.gif" class="img-wrapper rounded">
-                  <img class="img-responsive img-rounded" src="index_files/1.png" alt="theme-img">
-                </a>
-              </div></div><div style="width: 375px;" class="owl-item"><div class="item">
-                <a href="http://mamoot-themes.com/theme-preview/z-theme-1-2/assets/images/portfolio/lightbox.gif" class="img-wrapper rounded">
-                  <img class="img-responsive img-rounded" src="index_files/2.png" alt="theme-img">
-                </a>
-              </div></div><div style="width: 375px;" class="owl-item"><div class="item">
-                <a href="http://mamoot-themes.com/theme-preview/z-theme-1-2/assets/images/portfolio/lightbox.gif" class="img-wrapper rounded">
-                  <img class="img-responsive img-rounded" src="index_files/3.png" alt="theme-img">
-                </a>
-              </div></div><div style="width: 375px;" class="owl-item"><div class="item">
-                <a href="http://mamoot-themes.com/theme-preview/z-theme-1-2/assets/images/portfolio/lightbox.gif" class="img-wrapper rounded">
-                  <img class="img-responsive img-rounded" src="index_files/4.png" alt="theme-img">
-                </a>
-              </div></div></div></div>
-              
-              
-              
-            <div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-6 col-lg-offset-3 col-sm-8 col-sm-offset-2">
-            <p class="lead text-center mt-70">Our customers trust us</p>
-            <div style="opacity: 1; display: block;" id="owl-clients" class="owl-carousel owl-theme">
-              <div class="owl-wrapper-outer"><div style="width: 2224px; left: 0px; display: block; transition: all 400ms ease 0s; transform: translate3d(-556px, 0px, 0px);" class="owl-wrapper"><div style="width: 139px;" class="owl-item"><div class="item">
-                <img class="img-responsive" src="index_files/toshiba.png" alt="theme-img">
-              </div></div><div style="width: 139px;" class="owl-item"><div class="item">
-                <img class="img-responsive" src="index_files/lenovo.png" alt="theme-img">
-              </div></div><div style="width: 139px;" class="owl-item"><div class="item">
-                <img class="img-responsive" src="index_files/nokia.png" alt="theme-img">
-              </div></div><div style="width: 139px;" class="owl-item"><div class="item">
-                <img class="img-responsive" src="index_files/amd.png" alt="theme-img">
-              </div></div><div style="width: 139px;" class="owl-item"><div class="item">
-                <img class="img-responsive" src="index_files/toshiba.png" alt="theme-img">
-              </div></div><div style="width: 139px;" class="owl-item"><div class="item">
-                <img class="img-responsive" src="index_files/lenovo.png" alt="theme-img">
-              </div></div><div style="width: 139px;" class="owl-item"><div class="item">
-                <img class="img-responsive" src="index_files/nokia.png" alt="theme-img">
-              </div></div><div style="width: 139px;" class="owl-item"><div class="item">
-                <img class="img-responsive" src="index_files/amd.png" alt="theme-img">
-              </div></div></div></div>
-              
-              
-              
-              
-              
-              
-              
-            </div>
           </div>
         </div>
       </div>
-    </div> -->
+    </div> 
+    <div class="section section-both section-sm " id="account-reactivation" style="border:none!important;padding-top:75px">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2">
+        <h3 class="text-theme title-lg">Account Reactivation</h3>
+        <p class="text-theme">With this mail, we are pleased to introduce you to our Account Reactivation and Management services which can not only help you get your business back on Amazon but which will also ensure that it doesn't get suspended ever again. </p>
+        <ul class="text-theme list-unstyled list-md">
+          <li><i class="fa fa-check colored"></i><strong>Flexible pricing- </strong>Fixed and variable both options available</li>
+          <li><i class="fa fa-check colored"></i>No advance payment. <strong>Payment only after the account gets reinstated!</strong></li>
+          <li><i class="fa fa-check colored"></i><strong>TAT (Turnaround Time) = 4-5 days</strong></li>
+          <li><i class="fa fa-check colored"></i><strong>More than 100 active accounts </strong>being currently managed by us on Amazon</li>
+          <li><i class="fa fa-check colored"></i><strong>95% of the reactivated accounts being managed by us have a 'Good' Account Health now!</strong></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section section-both section-sm section-dark" id="listing-cataloguing">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2">
+        <h3 class="text-theme title-lg">Listing & Cataloguing</h3>
+        <p class="text-theme">With this mail, we are pleased to offer <b>our professional cataloguing and listing services</b> which can help expand your online product portfolio and <b>enhance your customer experience and sales on all e-Commerce platforms.</p>
+        <ul class="text-theme list-unstyled list-md">
+          <li><i class="fa fa-check colored"></i>Cataloguing at <b>Rs 15-20/- per item</b> only. Variations at just<b> Rs 5/-</b> per item</li>
+          <li><i class="fa fa-check colored"></i>Listing at <b>Rs 5/- per item (per platform)</b></li>
+          <li><i class="fa fa-check colored"></i>Volume based discounts</li>
+          <li><i class="fa fa-check colored"></i><b>Over 200 suspended </b>seller accounts reinstated by our PoA experts so far</li>
+          <li><i class="fa fa-check colored"></i>No advance payment. <b>All payments after the products are live!</b></li>
+          <li><i class="fa fa-check colored"></i>We won't just share the catalogue excel sheet with you. <b>We'll make your products live and stand out!</b></li>
+          <li><i class="fa fa-check colored"></i><b>TAT (Turnaround Time) = 2 days</b></li>
+          <li><i class="fa fa-check colored"></i><b>Experience of listing over 1 lakh items</b></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section section-both section-sm section-dark" id="suspension-prevention">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2">
+        <h3 class="text-theme title-lg">Suspension Prevention</h3>
+          <p class="text-theme">With this mail, we are pleased to introduce you to our <b>Suspension Prevention services</b> which can not only help <b>you avoid getting suspended</b> on Amazon but which will also ensure that you are<b> among the best </b>rated sellers in your category.</p>
+        <ul class="text-theme list-unstyled list-md">
+         <li><i class="fa fa-check colored"></i><b>Having reinstated over 250 suspended</b> seller accounts so far, we know the subject in & out!</li>
+        <li><i class="fa fa-check colored"></i><b>More than 100 active accounts</b> being currently managed by us on Amazon</li>
+        <li><i class="fa fa-check colored"></i>95% of the reactivated accounts being managed by us have a 'Good' Account Health now!</li>
+        <li><i class="fa fa-check colored"></i>We'll take care of<b> parameters such as Negative Feedback, A-Z claims etc.</b> that affect your seller performance metrics</li>
+        <li><i class="fa fa-check colored"></i>Complete customer care support over email and as well as phone- <b>even on Sundays and Holidays!</b></li>
+        <li><i class="fa fa-check colored"></i>Understand where claims of <b>"counterfeit"</b> and <b>"not as described"</b> really come from and fix your vulnerabilities</li>
+        <li><i class="fa fa-check colored"></i>We'll <b>track and respond appropriately to Amazon Policy Notifications / Warnings</b></li>
+        <li><i class="fa fa-check colored"></i><b>No advance payment</b></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
     <!-- SECTION CEO -->
     <!--===============================================================-->
-   <!--  <div class="section-ceo section section-sm section-top ">
+    <div class="section-ceo section section-sm section-top " style="margin-bottom:80px">
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 col-sm-push-6">
-            <h3 class="text-theme title-lg">Our Ceo Says "This is the Best Theme In The World"</h3>
+          <div class="col-sm-12 cl-md-12 text-center">
+            <h3 class="text-theme title-lg">Out Ceo Says, "This is the Best Theme In The World"</h3>
             <p class="text-theme lead">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
-            <a class="text-theme btn btn-primary btn-lg"><i class="fa fa-shopping-cart"></i>Buy Now</a>
-          </div>
-          <div class="col-sm-6 col-sm-pull-6">
-            <div class="row">
-              <div class="col-sm-6">
-                <img class="wow fadeInUp img-responsive" data-wow-duration="0.6s" src="index_files/ceo-full.png" alt="theme-img">
-              </div>
-            </div>
           </div>
         </div>
       </div>
-    </div> -->
+    </div> 
+    <div class="clearfix">&nbsp;</div>
     <!-- SECTION FOOTER -->
     <!--===============================================================-->
     <!--SECTION FOOTER BOTTOM -->

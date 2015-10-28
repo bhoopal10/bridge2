@@ -28,5 +28,16 @@
 
 
 <script charset="UTF-8" src="index_files/javascript.js" async=""></script>
+<script type="text/javascript">
+  $(function(){
+    $("a[href^='#']").click(function(e){
+      e.preventDefault();
+        var href = $(this).attr('href');
+        href = href.substr(1);
+        var offset = $('#'+href).offset().top;
+        $("html, body").animate({ scrollTop: offset },2000);
+    });
+  });
+</script>
 </body>
 <script type="application/x-javascript" src="index_files/opt_content.js"></script></html>
