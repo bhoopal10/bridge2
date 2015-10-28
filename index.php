@@ -136,7 +136,7 @@
             <div class="icon-box">
               <i class="fa fa-bar-chart-o fa-round fa-4x text-theme"></i>
               <h3 class="title-sm text-theme-sm text-theme">Account Reactivation</h3>
-              <p class="text-theme-sm text-justify">Introduce you to our <strong>Account Reactivation and Management services</strong></p>
+              <p class="text-theme-sm text-justify">Introduce you to our Account Reactivation and Management services</p>
               <a href="#account-reactivation" style="float:left">Take a look <i class="fa fa-angle-double-right"></i></a>
               
             </div>
@@ -267,7 +267,7 @@ venenatis eu.</p>
       <div class="container">
         <div class="row">
           <div class="col-sm-12 text-center">
-            <h3 class="text-theme title-xl title-section text-uppercase hr">Our Work</h3>
+            <h3 class="text-theme title-xl title-section text-uppercase hr">Our Services</h3>
           </div>
         </div>
       </div>
@@ -282,11 +282,11 @@ venenatis eu.</p>
         <h3 class="text-theme title-lg">Account Reactivation</h3>
         <p class="text-theme">With this mail, we are pleased to introduce you to our Account Reactivation and Management services which can not only help you get your business back on Amazon but which will also ensure that it doesn't get suspended ever again. </p>
         <ul class="text-theme list-unstyled list-md">
-          <li><i class="fa fa-check colored"></i><strong>Flexible pricing- </strong>Fixed and variable both options available</li>
-          <li><i class="fa fa-check colored"></i>No advance payment. <strong>Payment only after the account gets reinstated!</strong></li>
-          <li><i class="fa fa-check colored"></i><strong>TAT (Turnaround Time) = 4-5 days</strong></li>
-          <li><i class="fa fa-check colored"></i><strong>More than 100 active accounts </strong>being currently managed by us on Amazon</li>
-          <li><i class="fa fa-check colored"></i><strong>95% of the reactivated accounts being managed by us have a 'Good' Account Health now!</strong></li>
+          <li><i class="fa fa-check colored"></i>Flexible pricing- Fixed and variable both options available</li>
+          <li><i class="fa fa-check colored"></i>No advance payment. Payment only after the account gets reinstated!</li>
+          <li><i class="fa fa-check colored"></i>TAT (Turnaround Time) = 4-5 days</li>
+          <li><i class="fa fa-check colored"></i>More than 100 active accounts being currently managed by us on Amazon</li>
+          <li><i class="fa fa-check colored"></i>95% of the reactivated accounts being managed by us have a 'Good' Account Health now!</li>
         </ul>
       </div>
     </div>
@@ -298,16 +298,16 @@ venenatis eu.</p>
     <div class="row">
       <div class="col-sm-7">
         <h3 class="text-theme title-lg">Listing & Cataloguing</h3>
-        <p class="text-theme">With this mail, we are pleased to offer <b>our professional cataloguing and listing services</b> which can help expand your online product portfolio and <b>enhance your customer experience and sales on all e-Commerce platforms.</p>
+        <p class="text-theme">With this mail, we are pleased to offer our professional cataloguing and listing services which can help expand your online product portfolio and enhance your customer experience and sales on all e-Commerce platforms.</p>
         <ul class="text-theme list-unstyled list-md">
-          <li><i class="fa fa-check colored"></i>Cataloguing at <b>Rs 15-20/- per item</b> only. Variations at just<b> Rs 5/-</b> per item</li>
-          <li><i class="fa fa-check colored"></i>Listing at <b>Rs 5/- per item (per platform)</b></li>
+          <li><i class="fa fa-check colored"></i>Cataloguing at Rs 15-20/- per item only. Variations at just Rs 5/- per item</li>
+          <li><i class="fa fa-check colored"></i>Listing at Rs 5/- per item (per platform)</li>
           <li><i class="fa fa-check colored"></i>Volume based discounts</li>
-          <li><i class="fa fa-check colored"></i><b>Over 200 suspended </b>seller accounts reinstated by our PoA experts so far</li>
-          <li><i class="fa fa-check colored"></i>No advance payment. <b>All payments after the products are live!</b></li>
-          <li><i class="fa fa-check colored"></i>We won't just share the catalogue excel sheet with you. <b>We'll make your products live and stand out!</b></li>
-          <li><i class="fa fa-check colored"></i><b>TAT (Turnaround Time) = 2 days</b></li>
-          <li><i class="fa fa-check colored"></i><b>Experience of listing over 1 lakh items</b></li>
+          <li><i class="fa fa-check colored"></i>Over 200 suspended seller accounts reinstated by our PoA experts so far</li>
+          <li><i class="fa fa-check colored"></i>No advance payment. All payments after the products are live!</li>
+          <li><i class="fa fa-check colored"></i>We won't just share the catalogue excel sheet with you. We'll make your products live and stand out!</li>
+          <li><i class="fa fa-check colored"></i>TAT (Turnaround Time) = 2 days</li>
+          <li><i class="fa fa-check colored"></i>Experience of listing over 1 lakh items</li>
           
         </ul>
       </div>
@@ -326,16 +326,16 @@ venenatis eu.</p>
       </div>
       <div class="col-sm-7">
         <h3 class="text-theme title-lg">Suspension Prevention</h3>
-          <p class="text-theme">With this mail, we are pleased to introduce you to our <b>Suspension Prevention services</b> which can not only help <b>you avoid getting suspended</b> on Amazon but which will also ensure that you are<b> among the best </b>rated sellers in your category.</p>
+          <p class="text-theme">With this mail, we are pleased to introduce you to our Suspension Prevention services which can not only help you avoid getting suspended on Amazon but which will also ensure that you are among the best rated sellers in your category.</p>
         <ul class="text-theme list-unstyled list-md">
-         <li><i class="fa fa-check colored"></i><b>Having reinstated over 250 suspended</b> seller accounts so far, we know the subject in & out!</li>
-        <li><i class="fa fa-check colored"></i><b>More than 100 active accounts</b> being currently managed by us on Amazon</li>
+         <li><i class="fa fa-check colored"></i>Having reinstated over 250 suspended seller accounts so far, we know the subject in & out!</li>
+        <li><i class="fa fa-check colored"></i>More than 100 active accounts being currently managed by us on Amazon</li>
         <li><i class="fa fa-check colored"></i>95% of the reactivated accounts being managed by us have a 'Good' Account Health now!</li>
-        <li><i class="fa fa-check colored"></i>We'll take care of<b> parameters such as Negative Feedback, A-Z claims etc.</b> that affect your seller performance metrics</li>
-        <li><i class="fa fa-check colored"></i>Complete customer care support over email and as well as phone- <b>even on Sundays and Holidays!</b></li>
-        <li><i class="fa fa-check colored"></i>Understand where claims of <b>"counterfeit"</b> and <b>"not as described"</b> really come from and fix your vulnerabilities</li>
-        <li><i class="fa fa-check colored"></i>We'll <b>track and respond appropriately to Amazon Policy Notifications / Warnings</b></li>
-        <li><i class="fa fa-check colored"></i><b>No advance payment</b></li>
+        <li><i class="fa fa-check colored"></i>We'll take care of parameters such as Negative Feedback, A-Z claims etc. that affect your seller performance metrics</li>
+        <li><i class="fa fa-check colored"></i>Complete customer care support over email and as well as phone- even on Sundays and Holidays!</li>
+        <li><i class="fa fa-check colored"></i>Understand where claims of "counterfeit" and "not as described" really come from and fix your vulnerabilities</li>
+        <li><i class="fa fa-check colored"></i>We'll track and respond appropriately to Amazon Policy Notifications / Warnings</li>
+        <li><i class="fa fa-check colored"></i>No advance payment</li>
         </ul>
       </div>
     </div>
@@ -348,10 +348,10 @@ venenatis eu.</p>
     
       <div class="col-sm-7">
         <h3 class="text-theme title-lg">Launch</h3>
-          <p class="text-theme">With this mail, we are pleased to introduce you to our <b>Suspension Prevention services</b> which can not only help <b>you avoid getting suspended</b> on Amazon but which will also ensure that you are<b> among the best </b>rated sellers in your category.</p>
+          <p class="text-theme">With this mail, we are pleased to introduce you to our Suspension Prevention services which can not only help you avoid getting suspended on Amazon but which will also ensure that you are among the best rated sellers in your category.</p>
         <ul class="text-theme list-unstyled list-md">
-         <li><i class="fa fa-check colored"></i><b> More than 50 Non Accounts Launched</b></li>
-        <li><i class="fa fa-check colored"></i><b>No Advance Payment</b></li>
+         <li><i class="fa fa-check colored"></i> More than 50 Non Accounts Launched</b></li>
+        <li><i class="fa fa-check colored"></i>No Advance Payment</b></li>
         </ul>
       </div>
       <div class="col-sm-5">
