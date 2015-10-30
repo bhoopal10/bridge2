@@ -18,6 +18,7 @@
   <!-- Theme -->
   <link rel="stylesheet" type="text/css" href="public/css/carousel-animate.css">
   <link rel="stylesheet" type="text/css" href="public/css/theme-blue-4.css" id="color-style">
+  <link rel="stylesheet" type="text/css" href="public/css/custom.css">
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
