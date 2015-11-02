@@ -42,3 +42,10 @@
 	padding-right: 15px;
 	background-color: #efefef;
 }
+#sample input.form-control{
+	height: 42px;
+	text-align: center;
+}
+#sample .btn{
+	height: 42px;
+}
